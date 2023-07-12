@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WanderLunch/static/css/main.f45b5d9b.css",
+    "main.js": "/WanderLunch/static/js/main.29b56da5.js",
+    "static/js/787.7869f707.chunk.js": "/WanderLunch/static/js/787.7869f707.chunk.js",
+    "index.html": "/WanderLunch/index.html",
+    "main.f45b5d9b.css.map": "/WanderLunch/static/css/main.f45b5d9b.css.map",
+    "main.29b56da5.js.map": "/WanderLunch/static/js/main.29b56da5.js.map",
+    "787.7869f707.chunk.js.map": "/WanderLunch/static/js/787.7869f707.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f45b5d9b.css",
+    "static/js/main.29b56da5.js"
+  ]
+}
